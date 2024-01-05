@@ -1,0 +1,2 @@
+include ':aar_module'
+rootProject.name = 'aar_plugin'
